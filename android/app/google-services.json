@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902027683930",
+    "project_id": "completewomencare-1b5ea",
+    "storage_bucket": "completewomencare-1b5ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902027683930:android:636deb92e85ce6bb605063",
+        "android_client_info": {
+          "package_name": "com.alphadoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902027683930-f7ui9ofnkcpk1h2a669pgq9e2rbobiov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeBMQWM8uyAq9d7rVURBTWpp6cnezUH-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902027683930-f7ui9ofnkcpk1h2a669pgq9e2rbobiov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
